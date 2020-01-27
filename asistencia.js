@@ -1,7 +1,7 @@
 //Script para asistencia
 // const scripts = require('./scripts.js');
-let mapa = Object.null;
-let form = getElementsByName("");
+// let mapa = Object.null;
+// let form = getElementsByName("");
 
 
 const {google} = require('googleapis');
