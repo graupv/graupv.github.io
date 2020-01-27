@@ -3,10 +3,11 @@
 // let mapa = Object.null;
 // let form = getElementsByName("");
 
+console.log('lol');
 
-// const {google} = require('googleapis');
+const {google} = require('googleapis');
 const {google} = require('./node_modules/googleapis');
-
+console.log('load');
 
 var sheetID = '1pa-LWmuOutiio8vo74jNBPXRPDthJDG6n8_HD4Mc-mQ';
 var sheetName = 'invitados';
