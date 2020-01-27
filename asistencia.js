@@ -1,5 +1,5 @@
 //Script para asistencia
-const scripts = require('./scripts.js');
+// const scripts = require('./scripts.js');
 let mapa = Object.null;
 let form = getElementsByName("");
 
