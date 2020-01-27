@@ -4,7 +4,8 @@
 // let form = getElementsByName("");
 
 
-const {google} = require('googleapis');
+// const {google} = require('googleapis');
+const {google} = require('./node_modules/googleapis');
 
 
 var sheetID = '1pa-LWmuOutiio8vo74jNBPXRPDthJDG6n8_HD4Mc-mQ';
